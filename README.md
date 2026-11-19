@@ -9,7 +9,7 @@ The workflow evaluates relationships among:
   - Spruce-Lichen Habitat Availability
 
 # Relationship to the StoryMap
-This project builds on the winter caribou hotspot analysis presented in the corresponding StoryMap by automating the workflow and extending the original research question through additional exploratory analyses.
+This project builds on the winter caribou hotspot analysis presented in the corresponding StoryMap by automating the workflow and expanding upon the original research question through additional exploratory analyses.
 
 Primary ecological question:
 Given the spruce-lichen land-cover data (i.e., habitat essential to caribou sustainability during winter), where within suitable habitat is movement most concentrated, and what does this reveal about winter range use?
