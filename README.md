@@ -8,6 +8,20 @@ The workflow evaluates relationships among:
   - Wildfire History
   - Spruce-Lichen Habitat Availability
 
+# Relationship to the StoryMap
+This project builds on the winter caribou hotspot analysis presented in the corresponding StoryMap by automating the workflow and extending the original research question through additional exploratory analyses.
+
+Primary ecological question:
+Given the spruce-lichen land-cover data (i.e., habitat essential to caribou sustainability during winter), where within suitable habitat is movement most concentrated, and what does this reveal about winter range use?
+
+The automation developed in this repository expands that analysis through programmable workflows and additional exploratory analyses, including:
+  - Hotspot comparisons across fire years
+  - Burned-acreage thresholds
+  - Comparisons between vegetation classes
+  - Habitat-patch size thresholds
+
+The primary hotspot analysis remains the core research question, while the automated workflow provides additional tools for investigating potential habitat and disturbance relationships.
+
 # METHODS
   - ArcGIS Pro
   - ArcPy
